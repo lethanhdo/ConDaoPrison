@@ -1084,7 +1084,7 @@ h1 {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(/img/bg-3.jpg);
+  background-image: url(img/bg-3.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
